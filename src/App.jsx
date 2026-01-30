@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import "bootstrap/dist/css/bootstrap.css";
-import "bootstrap/dist/js/bootstrap.bundle";
 import { BrowserRouter, Routes, Route, useLocation} from 'react-router-dom';
 import Navbar from './Components/LandingPage/Navbar';
 import Home from './Components/LandingPage/Home';
