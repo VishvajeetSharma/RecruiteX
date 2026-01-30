@@ -16,9 +16,9 @@ const Footer = () => {
           </div>
           <div className="foot">
             <div className="foot_h6">CONTACT INFO</div>
-            <p className='foot_p'>Address: Kushinagar, UP</p>
-            <p className='foot_p'>Phone: 9559779666</p>
-            <p className='foot_p'>Email: ayushsri9666@gmail.com</p>
+            <p className='foot_p'>Address: Lucknow, UP</p>
+            <p className='foot_p'>Phone: 9876776545</p>
+            <p className='foot_p'>Email: vishvajeetsharma@gmail.com</p>
 
             <h6 className='footlogo'>5000+ <abbr style={{ fontWeight: 400 }}>Talented Hunters</abbr></h6>
           </div>
